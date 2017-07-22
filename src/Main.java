@@ -15,4 +15,7 @@ public class Main {
     public void method2() {
 
     }
+    public void method4() {
+
+    }
 }
